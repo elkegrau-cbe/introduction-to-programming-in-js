@@ -1,3 +1,3 @@
 # javascript
-A new Repository for Javascript Coding
+A Repository for Introduction to Javascript Coding Tasks
 
