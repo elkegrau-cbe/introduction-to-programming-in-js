@@ -21,3 +21,4 @@ console.log("2" + 2);
  Create a console.log that returns true when both division results are equal to 5
 console.log(25 / 5); // Result: 5
 console.log(50 / 10); // Result: 5
+
