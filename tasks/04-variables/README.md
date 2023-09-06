@@ -1,6 +1,6 @@
 04) Coding-Task: Variables
    
-   1) Spot the errors and fix them
+1) Spot the errors and fix them
  Copy the following complete code block to your script.js file and try to spot and fix the errors.
 
 const userName = Brad;
@@ -15,7 +15,7 @@ console.log(getUserNameLength(userName) > 4)
 
 
 
-3) isString function
+2) isString function
 Implement a isString function.
 
  The function has one parameter which could be any kind of data type
