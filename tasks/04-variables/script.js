@@ -2,29 +2,20 @@
 
 let userName = "Brad";
 
-function getUserNameLength() {
-  return userName;
-}
 console.log("Brad".length >= 4);
 
 userName = "Jenna";
 
-function getUserNameLength() {
-  return userName;
-}
 console.log("Jenna".length > 4);
 
 // ^______________ Should log true
 
 // TODO: Implement the isString function
 
-const isString = function (any) {
-  if (typeof any === "string") {
-    return true;
-  } else {
-    return false;
-  }
-};
+function isString(any) {
+  return typeof any === "string";
+}
+
 console.log(isString("Hello"));
 // result should be true
 
